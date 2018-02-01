@@ -10,9 +10,9 @@
 <script>
 import { mapGetters, mapActions } from 'vuex'
 
-import Header from 'components/header/Header.vue'
-import DetailHeader from 'components/detailheader/DetailHeader.vue'
-import SlideBar from 'components/slidebar/SlideBar.vue'
+import Header from 'components/header/Header'
+import DetailHeader from 'components/detailheader/DetailHeader'
+import SlideBar from 'components/slidebar/SlideBar'
 
 	export default {
 		data () {
